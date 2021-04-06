@@ -1,2 +1,1 @@
-# TinDog-a-tinder-for-dogs-
-Its a fun website....
+TinDog Starting Files
